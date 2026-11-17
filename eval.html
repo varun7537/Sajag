@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>Sajag eval harness</title>
+  </head>
+  <body>
+    <header class="top">
+      <div class="brand">
+        <div>
+          <h1>Sajag eval</h1>
+          <p class="muted">Runs the synthetic message set through the real pipeline in this browser. Only fabricated messages are used.</p>
+        </div>
+      </div>
+      <span id="model-status" class="status" role="status"></span>
+    </header>
+    <main>
+      <section class="card">
+        <h2>Run</h2>
+        <div class="row">
+          <label class="check"><input type="radio" name="slice" value="hard" checked /><span>Hard slice only (18 messages)</span></label>
+          <label class="check"><input type="radio" name="slice" value="all" /><span>All messages (uses more cloud quota)</span></label>
+        </div>
+        <label class="check"><input id="do-cloud" type="checkbox" checked /><span>Include the hybrid arm (calls the cloud with masked facts, one request per message)</span></label>
+        <div class="row">
+          <button id="model-btn" class="btn" type="button" hidden>Download on-device model</button>
+          <button id="run" class="btn primary" type="button">Run evaluation</button>
+          <button id="dl" class="btn ghost" type="button" disabled>Download results (JSON)</button>
+        </div>
+        <p id="progress" class="muted" role="status"></p>
+        <p id="error" class="error" role="alert" hidden></p>
+      </section>
+      <section id="out" class="card" hidden></section>
+    </main>
+    <script type="module" src="/src/eval/browserEval.ts"></script>
+  </body>
+</html>

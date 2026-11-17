@@ -1,0 +1,1272 @@
+[
+  {
+    "id": "S001",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Sandeep Rao from the CBI cyber cell. A parcel booked with your Aadhaar 352896510770 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 1,20,000 immediately to the verification account to avoid arrest. Call 8142772808 if you disconnect.",
+    "seeds": [
+      "Sandeep Rao",
+      "8142772808",
+      "352896510770"
+    ]
+  },
+  {
+    "id": "S002",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Pooja Nair from the CBI cyber cell. A parcel booked with your Aadhaar 428485569720 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 50,000 immediately to the verification account to avoid arrest. Call 8052091819 if you disconnect.",
+    "seeds": [
+      "Pooja Nair",
+      "8052091819",
+      "428485569720"
+    ]
+  },
+  {
+    "id": "S003",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Rajesh Kumar from the CBI cyber cell. A parcel booked with your Aadhaar 635804388816 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 50,000 immediately to the verification account to avoid arrest. Call 9805904548 if you disconnect.",
+    "seeds": [
+      "Rajesh Kumar",
+      "9805904548",
+      "635804388816"
+    ]
+  },
+  {
+    "id": "S004",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Sandeep Rao from the CBI cyber cell. A parcel booked with your Aadhaar 788723090956 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 2,75,000 immediately to the verification account to avoid arrest. Call 6146178882 if you disconnect.",
+    "seeds": [
+      "Sandeep Rao",
+      "6146178882",
+      "788723090956"
+    ]
+  },
+  {
+    "id": "S005",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Vikram Singh from the CBI cyber cell. A parcel booked with your Aadhaar 311096525849 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 2,75,000 immediately to the verification account to avoid arrest. Call 6889384575 if you disconnect.",
+    "seeds": [
+      "Vikram Singh",
+      "6889384575",
+      "311096525849"
+    ]
+  },
+  {
+    "id": "S006",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "This is Inspector Sandeep Rao from the CBI cyber cell. A parcel booked with your Aadhaar 607442720453 contains illegal items. You are under digital arrest. Stay on this video call and do not tell anyone, not even family. Transfer Rs 50,000 immediately to the verification account to avoid arrest. Call 7190883334 if you disconnect.",
+    "seeds": [
+      "Sandeep Rao",
+      "7190883334",
+      "607442720453"
+    ]
+  },
+  {
+    "id": "S007",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aap ke naam par ek parcel mila hai jisme drugs hain. CBI officer aap se video call par baat karenge. Digital arrest se bachna hai to turant paisa transfer kijiye rahul42@okaxis par. Kisi ko mat batana aur call mat kaatna. Contact 7491137506.",
+    "seeds": [
+      "7491137506",
+      "rahul42@okaxis"
+    ]
+  },
+  {
+    "id": "S008",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aap ke naam par ek parcel mila hai jisme drugs hain. CBI officer aap se video call par baat karenge. Digital arrest se bachna hai to turant paisa transfer kijiye sam17@oksbi par. Kisi ko mat batana aur call mat kaatna. Contact 6372360483.",
+    "seeds": [
+      "6372360483",
+      "sam17@oksbi"
+    ]
+  },
+  {
+    "id": "S009",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aap ke naam par ek parcel mila hai jisme drugs hain. CBI officer aap se video call par baat karenge. Digital arrest se bachna hai to turant paisa transfer kijiye rahul82@oksbi par. Kisi ko mat batana aur call mat kaatna. Contact 8678267420.",
+    "seeds": [
+      "8678267420",
+      "rahul82@oksbi"
+    ]
+  },
+  {
+    "id": "S010",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aap ke naam par ek parcel mila hai jisme drugs hain. CBI officer aap se video call par baat karenge. Digital arrest se bachna hai to turant paisa transfer kijiye anita66@paytm par. Kisi ko mat batana aur call mat kaatna. Contact 8581360707.",
+    "seeds": [
+      "8581360707",
+      "anita66@paytm"
+    ]
+  },
+  {
+    "id": "S011",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "आप डिजिटल अरेस्ट में हैं। सीबीआई अधिकारी वीडियो कॉल पर हैं। गिरफ्तारी से बचने के लिए तुरंत जुर्माना ट्रांसफर करें। किसी को न बताएं। संपर्क ९१७६८२२४६८",
+    "seeds": [
+      "9176822468",
+      "९१७६८२२४६८"
+    ]
+  },
+  {
+    "id": "S012",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "आप डिजिटल अरेस्ट में हैं। सीबीआई अधिकारी वीडियो कॉल पर हैं। गिरफ्तारी से बचने के लिए तुरंत जुर्माना ट्रांसफर करें। किसी को न बताएं। संपर्क ६०९४१६५४२९",
+    "seeds": [
+      "6094165429",
+      "६०९४१६५४२९"
+    ]
+  },
+  {
+    "id": "S013",
+    "label": "scam",
+    "category": "digital_arrest",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "आप डिजिटल अरेस्ट में हैं। सीबीआई अधिकारी वीडियो कॉल पर हैं। गिरफ्तारी से बचने के लिए तुरंत जुर्माना ट्रांसफर करें। किसी को न बताएं। संपर्क ९०४४६०८३३४",
+    "seeds": [
+      "9044608334",
+      "९०४४६०८३३४"
+    ]
+  },
+  {
+    "id": "S014",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 8% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://tradeprofit.vip/join?ref=677931 or message 6603505715.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=677931",
+      "6603505715"
+    ]
+  },
+  {
+    "id": "S015",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 3% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://tradeprofit.vip/join?ref=329097 or message 7568251784.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=329097",
+      "7568251784"
+    ]
+  },
+  {
+    "id": "S016",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 8% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://tradeprofit.vip/join?ref=825451 or message 6848300867.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=825451",
+      "6848300867"
+    ]
+  },
+  {
+    "id": "S017",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 5% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://tradeprofit.vip/join?ref=263321 or message 7737854475.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=263321",
+      "7737854475"
+    ]
+  },
+  {
+    "id": "S018",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 8% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://tradeprofit.vip/join?ref=239540 or message 6054715677.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=239540",
+      "6054715677"
+    ]
+  },
+  {
+    "id": "S019",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Join our VIP WhatsApp group for stock trading signals. Guaranteed 8% daily profit with our SEBI-style mentor. Invest Rs 10,000 today, withdraw double in a week. Click https://bit.ly/3283589 or message 9892421456.",
+    "seeds": [
+      "https://bit.ly/3283589",
+      "9892421456"
+    ]
+  },
+  {
+    "id": "S020",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Hamare trading group me judiye. Guaranteed return milega, rozana profit 5%. Pehle Rs 5000 deposit karo meera82@okaxis par. Link: https://secure-kyc-update.xyz/login?s=806433",
+    "seeds": [
+      "https://secure-kyc-update.xyz/login?s=806433",
+      "meera82@okaxis"
+    ]
+  },
+  {
+    "id": "S021",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Hamare trading group me judiye. Guaranteed return milega, rozana profit 5%. Pehle Rs 5000 deposit karo rahul44@paytm par. Link: https://bit.ly/3713362",
+    "seeds": [
+      "https://bit.ly/3713362",
+      "rahul44@paytm"
+    ]
+  },
+  {
+    "id": "S022",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Hamare trading group me judiye. Guaranteed return milega, rozana profit 5%. Pehle Rs 5000 deposit karo anita95@oksbi par. Link: https://secure-kyc-update.xyz/login?s=924298",
+    "seeds": [
+      "https://secure-kyc-update.xyz/login?s=924298",
+      "anita95@oksbi"
+    ]
+  },
+  {
+    "id": "S023",
+    "label": "scam",
+    "category": "investment_group",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Hamare trading group me judiye. Guaranteed return milega, rozana profit 5%. Pehle Rs 5000 deposit karo sam17@oksbi par. Link: https://bit.ly/3612668",
+    "seeds": [
+      "https://bit.ly/3612668",
+      "sam17@oksbi"
+    ]
+  },
+  {
+    "id": "S024",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 549523 you receive and update PAN LMNOP9465K at https://bit.ly/3570239 immediately. Helpline 9815734094.",
+    "seeds": [
+      "9815734094",
+      "https://bit.ly/3570239",
+      "549523"
+    ]
+  },
+  {
+    "id": "S025",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 335381 you receive and update PAN LMNOP5474F at https://tradeprofit.vip/join?ref=146426 immediately. Helpline 8322024882.",
+    "seeds": [
+      "8322024882",
+      "https://tradeprofit.vip/join?ref=146426",
+      "335381"
+    ]
+  },
+  {
+    "id": "S026",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 484272 you receive and update PAN ABCDE1201F at https://tradeprofit.vip/join?ref=933111 immediately. Helpline 9306080836.",
+    "seeds": [
+      "9306080836",
+      "https://tradeprofit.vip/join?ref=933111",
+      "484272"
+    ]
+  },
+  {
+    "id": "S027",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 161315 you receive and update PAN ABCDE1187Q at https://bit.ly/3968354 immediately. Helpline 9613026541.",
+    "seeds": [
+      "9613026541",
+      "https://bit.ly/3968354",
+      "161315"
+    ]
+  },
+  {
+    "id": "S028",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 829110 you receive and update PAN PQRST3374Q at https://cbi-verify.top/case?id=614498 immediately. Helpline 8396646010.",
+    "seeds": [
+      "8396646010",
+      "https://cbi-verify.top/case?id=614498",
+      "829110"
+    ]
+  },
+  {
+    "id": "S029",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 365738 you receive and update PAN LMNOP9681Q at https://bit.ly/3588573 immediately. Helpline 8070859208.",
+    "seeds": [
+      "8070859208",
+      "https://bit.ly/3588573",
+      "365738"
+    ]
+  },
+  {
+    "id": "S030",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 650846 you receive and update PAN PQRST1243K at https://tradeprofit.vip/join?ref=969704 immediately. Helpline 7574785225.",
+    "seeds": [
+      "7574785225",
+      "https://tradeprofit.vip/join?ref=969704",
+      "650846"
+    ]
+  },
+  {
+    "id": "S031",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your bank account will be blocked today due to incomplete KYC. Share the OTP 933074 you receive and update PAN LMNOP1328Q at https://cbi-verify.top/case?id=121313 immediately. Helpline 6257204013.",
+    "seeds": [
+      "6257204013",
+      "https://cbi-verify.top/case?id=121313",
+      "933074"
+    ]
+  },
+  {
+    "id": "S032",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aapka bank khata band ho jayega. KYC update karne ke liye turant OTP bataiye aur https://tradeprofit.vip/join?ref=375658 par click kijiye. Call 6823644252.",
+    "seeds": [
+      "6823644252",
+      "https://tradeprofit.vip/join?ref=375658"
+    ]
+  },
+  {
+    "id": "S033",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aapka bank khata band ho jayega. KYC update karne ke liye turant OTP bataiye aur https://secure-kyc-update.xyz/login?s=891819 par click kijiye. Call 7127310813.",
+    "seeds": [
+      "7127310813",
+      "https://secure-kyc-update.xyz/login?s=891819"
+    ]
+  },
+  {
+    "id": "S034",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aapka bank khata band ho jayega. KYC update karne ke liye turant OTP bataiye aur https://cbi-verify.top/case?id=870955 par click kijiye. Call 8120727784.",
+    "seeds": [
+      "8120727784",
+      "https://cbi-verify.top/case?id=870955"
+    ]
+  },
+  {
+    "id": "S035",
+    "label": "scam",
+    "category": "bank_kyc_otp",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Aapka bank khata band ho jayega. KYC update karne ke liye turant OTP bataiye aur https://secure-kyc-update.xyz/login?s=472227 par click kijiye. Call 9536792262.",
+    "seeds": [
+      "9536792262",
+      "https://secure-kyc-update.xyz/login?s=472227"
+    ]
+  },
+  {
+    "id": "S036",
+    "label": "scam",
+    "category": "courier_customs",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your courier parcel is held by customs. Pay a clearance fee of Rs 3,200 within 24 hours at https://secure-kyc-update.xyz/login?s=437972 or legal action will start. Contact 9596410364.",
+    "seeds": [
+      "https://secure-kyc-update.xyz/login?s=437972",
+      "9596410364"
+    ]
+  },
+  {
+    "id": "S037",
+    "label": "scam",
+    "category": "courier_customs",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your courier parcel is held by customs. Pay a clearance fee of Rs 3,200 within 24 hours at https://bit.ly/3415722 or legal action will start. Contact 9244494972.",
+    "seeds": [
+      "https://bit.ly/3415722",
+      "9244494972"
+    ]
+  },
+  {
+    "id": "S038",
+    "label": "scam",
+    "category": "courier_customs",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your courier parcel is held by customs. Pay a clearance fee of Rs 1,850 within 24 hours at https://tradeprofit.vip/join?ref=521364 or legal action will start. Contact 6445382173.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=521364",
+      "6445382173"
+    ]
+  },
+  {
+    "id": "S039",
+    "label": "scam",
+    "category": "courier_customs",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your courier parcel is held by customs. Pay a clearance fee of Rs 3,200 within 24 hours at https://tradeprofit.vip/join?ref=633674 or legal action will start. Contact 7299169586.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=633674",
+      "7299169586"
+    ]
+  },
+  {
+    "id": "S040",
+    "label": "scam",
+    "category": "courier_customs",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your courier parcel is held by customs. Pay a clearance fee of Rs 3,200 within 24 hours at https://tradeprofit.vip/join?ref=405220 or legal action will start. Contact 9111143272.",
+    "seeds": [
+      "https://tradeprofit.vip/join?ref=405220",
+      "9111143272"
+    ]
+  },
+  {
+    "id": "S041",
+    "label": "scam",
+    "category": "task_job",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Part-time work from home. Earn Rs 3000 daily by completing simple tasks. Join our Telegram group, pay a refundable deposit of Rs 2000 to anita17@ybl. Message 9375195306.",
+    "seeds": [
+      "9375195306",
+      "anita17@ybl"
+    ]
+  },
+  {
+    "id": "S042",
+    "label": "scam",
+    "category": "task_job",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Part-time work from home. Earn Rs 3000 daily by completing simple tasks. Join our Telegram group, pay a refundable deposit of Rs 2000 to vik89@oksbi. Message 8389151832.",
+    "seeds": [
+      "8389151832",
+      "vik89@oksbi"
+    ]
+  },
+  {
+    "id": "S043",
+    "label": "scam",
+    "category": "task_job",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Part-time work from home. Earn Rs 3000 daily by completing simple tasks. Join our Telegram group, pay a refundable deposit of Rs 2000 to rahul43@ybl. Message 7143936721.",
+    "seeds": [
+      "7143936721",
+      "rahul43@ybl"
+    ]
+  },
+  {
+    "id": "S044",
+    "label": "scam",
+    "category": "task_job",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Part-time work from home. Earn Rs 3000 daily by completing simple tasks. Join our Telegram group, pay a refundable deposit of Rs 2000 to anita47@ybl. Message 9283319817.",
+    "seeds": [
+      "9283319817",
+      "anita47@ybl"
+    ]
+  },
+  {
+    "id": "S045",
+    "label": "scam",
+    "category": "task_job",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Part-time work from home. Earn Rs 3000 daily by completing simple tasks. Join our Telegram group, pay a refundable deposit of Rs 2000 to anita96@oksbi. Message 6161334839.",
+    "seeds": [
+      "6161334839",
+      "anita96@oksbi"
+    ]
+  },
+  {
+    "id": "S046",
+    "label": "scam",
+    "category": "fake_app",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your electricity will be disconnected tonight. Download the support app (apk) and install AnyDesk so our agent can fix your bill. Call 8922413228 urgently.",
+    "seeds": [
+      "8922413228"
+    ]
+  },
+  {
+    "id": "S047",
+    "label": "scam",
+    "category": "fake_app",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your electricity will be disconnected tonight. Download the support app (apk) and install AnyDesk so our agent can fix your bill. Call 6493444575 urgently.",
+    "seeds": [
+      "6493444575"
+    ]
+  },
+  {
+    "id": "S048",
+    "label": "scam",
+    "category": "fake_app",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your electricity will be disconnected tonight. Download the support app (apk) and install AnyDesk so our agent can fix your bill. Call 8510948945 urgently.",
+    "seeds": [
+      "8510948945"
+    ]
+  },
+  {
+    "id": "S049",
+    "label": "scam",
+    "category": "fake_app",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your electricity will be disconnected tonight. Download the support app (apk) and install AnyDesk so our agent can fix your bill. Call 7455604974 urgently.",
+    "seeds": [
+      "7455604974"
+    ]
+  },
+  {
+    "id": "S050",
+    "label": "scam",
+    "category": "relative_emergency",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Papa, mera accident ho gaya hai, ye naya number hai 9354935070. Hospital me turant Rs 25000 bhejiye rahul58@ybl par. Kisi ko mat batana.",
+    "seeds": [
+      "9354935070",
+      "rahul58@ybl"
+    ]
+  },
+  {
+    "id": "S051",
+    "label": "scam",
+    "category": "relative_emergency",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Papa, mera accident ho gaya hai, ye naya number hai 9351656992. Hospital me turant Rs 25000 bhejiye rahul15@paytm par. Kisi ko mat batana.",
+    "seeds": [
+      "9351656992",
+      "rahul15@paytm"
+    ]
+  },
+  {
+    "id": "S052",
+    "label": "scam",
+    "category": "relative_emergency",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Papa, mera accident ho gaya hai, ye naya number hai 8302634544. Hospital me turant Rs 25000 bhejiye vik59@oksbi par. Kisi ko mat batana.",
+    "seeds": [
+      "8302634544",
+      "vik59@oksbi"
+    ]
+  },
+  {
+    "id": "S053",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Anita Verma, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Anita Verma"
+    ]
+  },
+  {
+    "id": "S054",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Sandeep Rao, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Sandeep Rao"
+    ]
+  },
+  {
+    "id": "S055",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Rajesh Kumar, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Rajesh Kumar"
+    ]
+  },
+  {
+    "id": "S056",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Pooja Nair, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Pooja Nair"
+    ]
+  },
+  {
+    "id": "S057",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Pooja Nair, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Pooja Nair"
+    ]
+  },
+  {
+    "id": "S058",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Rajesh Kumar, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Rajesh Kumar"
+    ]
+  },
+  {
+    "id": "S059",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Pooja Nair, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Pooja Nair"
+    ]
+  },
+  {
+    "id": "S060",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Sandeep Rao, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Sandeep Rao"
+    ]
+  },
+  {
+    "id": "S061",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Pooja Nair, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Pooja Nair"
+    ]
+  },
+  {
+    "id": "S062",
+    "label": "benign",
+    "category": "friend_chat",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Hey Meera Iyer, are we still on for lunch tomorrow at 1? I'll bring the notes from class and we can plan the trip.",
+    "seeds": [
+      "Meera Iyer"
+    ]
+  },
+  {
+    "id": "S063",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "551809 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "551809"
+    ]
+  },
+  {
+    "id": "S064",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "654300 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "654300"
+    ]
+  },
+  {
+    "id": "S065",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "457790 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "457790"
+    ]
+  },
+  {
+    "id": "S066",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "436345 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "436345"
+    ]
+  },
+  {
+    "id": "S067",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "789184 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "789184"
+    ]
+  },
+  {
+    "id": "S068",
+    "label": "benign",
+    "category": "otp_delivery",
+    "lang": "en",
+    "synthetic": true,
+    "text": "400204 is your login code. Do not share this OTP with anyone. Valid for 10 minutes.",
+    "seeds": [
+      "400204"
+    ]
+  },
+  {
+    "id": "S069",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 1,250 debited from account ending 5473 on 12-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S070",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 1,250 debited from account ending 4049 on 12-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S071",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 12,400 debited from account ending 3500 on 03-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S072",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 12,400 debited from account ending 6151 on 12-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S073",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 560 debited from account ending 5596 on 03-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S074",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 560 debited from account ending 0308 on 03-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S075",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 560 debited from account ending 9791 on 12-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S076",
+    "label": "benign",
+    "category": "bank_alert",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Rs 12,400 debited from account ending 6298 on 03-Nov. If not you, call the number on the back of your card.",
+    "seeds": []
+  },
+  {
+    "id": "S077",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S078",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S079",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S080",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S081",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S082",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S083",
+    "label": "benign",
+    "category": "delivery_update",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your order has shipped and will arrive on Friday. Track it in the app. Thank you for shopping with us.",
+    "seeds": []
+  },
+  {
+    "id": "S084",
+    "label": "benign",
+    "category": "family_hinglish",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Mummy, main shaam ko 7 baje tak ghar aa jaunga. Dinner mat banana, bahar kha lenge. Call me on 6180581441 if needed.",
+    "seeds": [
+      "6180581441"
+    ]
+  },
+  {
+    "id": "S085",
+    "label": "benign",
+    "category": "family_hinglish",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Mummy, main shaam ko 7 baje tak ghar aa jaunga. Dinner mat banana, bahar kha lenge. Call me on 6643181311 if needed.",
+    "seeds": [
+      "6643181311"
+    ]
+  },
+  {
+    "id": "S086",
+    "label": "benign",
+    "category": "family_hinglish",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Mummy, main shaam ko 7 baje tak ghar aa jaunga. Dinner mat banana, bahar kha lenge. Call me on 6292244617 if needed.",
+    "seeds": [
+      "6292244617"
+    ]
+  },
+  {
+    "id": "S087",
+    "label": "benign",
+    "category": "family_hinglish",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Mummy, main shaam ko 7 baje tak ghar aa jaunga. Dinner mat banana, bahar kha lenge. Call me on 7318920133 if needed.",
+    "seeds": [
+      "7318920133"
+    ]
+  },
+  {
+    "id": "S088",
+    "label": "benign",
+    "category": "family_hinglish",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Mummy, main shaam ko 7 baje tak ghar aa jaunga. Dinner mat banana, bahar kha lenge. Call me on 6223292910 if needed.",
+    "seeds": [
+      "6223292910"
+    ]
+  },
+  {
+    "id": "S089",
+    "label": "benign",
+    "category": "bill_reminder",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Reminder: your electricity bill of Rs 1,250 is due on the 20th. You can pay in the official app or at the office counter.",
+    "seeds": []
+  },
+  {
+    "id": "S090",
+    "label": "benign",
+    "category": "bill_reminder",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Reminder: your electricity bill of Rs 1,250 is due on the 20th. You can pay in the official app or at the office counter.",
+    "seeds": []
+  },
+  {
+    "id": "S091",
+    "label": "benign",
+    "category": "bill_reminder",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Reminder: your electricity bill of Rs 890 is due on the 20th. You can pay in the official app or at the office counter.",
+    "seeds": []
+  },
+  {
+    "id": "S092",
+    "label": "benign",
+    "category": "bill_reminder",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Reminder: your electricity bill of Rs 890 is due on the 20th. You can pay in the official app or at the office counter.",
+    "seeds": []
+  },
+  {
+    "id": "S093",
+    "label": "benign",
+    "category": "hindi_notice",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "कल स्कूल में अभिभावक बैठक सुबह दस बजे होगी। कृपया समय पर पहुँचें।",
+    "seeds": []
+  },
+  {
+    "id": "S094",
+    "label": "benign",
+    "category": "hindi_notice",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "कल स्कूल में अभिभावक बैठक सुबह दस बजे होगी। कृपया समय पर पहुँचें।",
+    "seeds": []
+  },
+  {
+    "id": "S095",
+    "label": "benign",
+    "category": "hindi_notice",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "कल स्कूल में अभिभावक बैठक सुबह दस बजे होगी। कृपया समय पर पहुँचें।",
+    "seeds": []
+  },
+  {
+    "id": "S096",
+    "label": "benign",
+    "category": "hindi_notice",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "कल स्कूल में अभिभावक बैठक सुबह दस बजे होगी। कृपया समय पर पहुँचें।",
+    "seeds": []
+  },
+  {
+    "id": "S097",
+    "label": "benign",
+    "category": "work_message",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Team, the quarterly review is moved to Thursday 3 pm. Please share your slides in the team folder before the meeting.",
+    "seeds": []
+  },
+  {
+    "id": "S098",
+    "label": "benign",
+    "category": "work_message",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Team, the quarterly review is moved to Thursday 3 pm. Please share your slides in the team folder before the meeting.",
+    "seeds": []
+  },
+  {
+    "id": "S099",
+    "label": "benign",
+    "category": "work_message",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Team, the quarterly review is moved to Thursday 3 pm. Please share your slides in the team folder before the meeting.",
+    "seeds": []
+  },
+  {
+    "id": "S100",
+    "label": "benign",
+    "category": "work_message",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Team, the quarterly review is moved to Thursday 3 pm. Please share your slides in the team folder before the meeting.",
+    "seeds": []
+  },
+  {
+    "id": "S101",
+    "label": "scam",
+    "category": "hard_laundering",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Sir, your Aadhaar linked number is named in a money laundering case registered in Mumbai. A senior officer will connect on WhatsApp video now. Please keep this matter private until the inquiry closes.",
+    "seeds": []
+  },
+  {
+    "id": "S102",
+    "label": "scam",
+    "category": "hard_prize",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Congratulations! You are selected for a bonus of Rs 8,000. To claim, send a small processing charge of Rs 199 to the UPI id shown below.",
+    "seeds": []
+  },
+  {
+    "id": "S103",
+    "label": "scam",
+    "category": "hard_romance_invest",
+    "lang": "en",
+    "synthetic": true,
+    "text": "I made good money on this platform my uncle runs. Try with just Rs 2000 first, I will guide you step by step. Withdrawals are instant, I promise.",
+    "seeds": []
+  },
+  {
+    "id": "S104",
+    "label": "scam",
+    "category": "hard_sim",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Dear customer your SIM will be deactivated today after verification failure. Reply YES to speak to our executive.",
+    "seeds": []
+  },
+  {
+    "id": "S105",
+    "label": "scam",
+    "category": "hard_loan",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Instant loan up to Rs 5 lakh, no documents needed. Pay Rs 3,000 insurance first and the amount is released in 10 minutes.",
+    "seeds": []
+  },
+  {
+    "id": "S106",
+    "label": "scam",
+    "category": "hard_hinglish_power",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Sir aapka bijli connection aaj raat kat jayega. Neeche diye number par sampark karein aur bill update karwayein.",
+    "seeds": []
+  },
+  {
+    "id": "S107",
+    "label": "scam",
+    "category": "hard_spelled_digits",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Kindly send fifty thousand rupees to the safe custody account, number nine eight seven six five four three two one zero, to close your case.",
+    "seeds": []
+  },
+  {
+    "id": "S108",
+    "label": "scam",
+    "category": "hard_hindi_pin",
+    "lang": "hi",
+    "synthetic": true,
+    "text": "आपके खाते से संदिग्ध लेन-देन हुआ है। अपना कार्ड नंबर और पिन हमें बताएं ताकि हम खाता सुरक्षित कर सकें।",
+    "seeds": []
+  },
+  {
+    "id": "S109",
+    "label": "scam",
+    "category": "hard_qr_refund",
+    "lang": "en",
+    "synthetic": true,
+    "text": "To receive your refund, scan this QR code and enter your UPI PIN to confirm.",
+    "seeds": []
+  },
+  {
+    "id": "S110",
+    "label": "scam",
+    "category": "hard_tech_support",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Warning: your computer has a virus. Call our technician immediately and allow remote access so we can remove it.",
+    "seeds": []
+  },
+  {
+    "id": "S111",
+    "label": "benign",
+    "category": "hard_bank_branch",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Dear customer, please visit your home branch with ID proof to complete KYC before 31 Dec. Ignore this message if already done.",
+    "seeds": []
+  },
+  {
+    "id": "S112",
+    "label": "benign",
+    "category": "hard_police_complaint",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your lost property complaint has been registered at the local police station. Please visit between 10 am and 5 pm with an ID.",
+    "seeds": []
+  },
+  {
+    "id": "S113",
+    "label": "benign",
+    "category": "hard_salary",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Salary of Rs 45,000 credited to your account. Available balance Rs 52,300.",
+    "seeds": []
+  },
+  {
+    "id": "S114",
+    "label": "benign",
+    "category": "hard_friend_money",
+    "lang": "hinglish",
+    "synthetic": true,
+    "text": "Bhai can you send Rs 500 on UPI for the cab? Will return it tonight.",
+    "seeds": []
+  },
+  {
+    "id": "S115",
+    "label": "benign",
+    "category": "hard_sip",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your SIP of Rs 5,000 will be debited on the 5th. Please maintain sufficient balance.",
+    "seeds": []
+  },
+  {
+    "id": "S116",
+    "label": "benign",
+    "category": "hard_delivery_otp",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Your delivery partner is at the door. Share the OTP 4821 with him to receive the parcel.",
+    "seeds": []
+  },
+  {
+    "id": "S117",
+    "label": "benign",
+    "category": "hard_real_interview",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Interview scheduled for Monday 11 am. Bring your resume and ID proof. No fee is charged at any stage of hiring.",
+    "seeds": []
+  },
+  {
+    "id": "S118",
+    "label": "benign",
+    "category": "hard_tuition_fee",
+    "lang": "en",
+    "synthetic": true,
+    "text": "Reminder: tuition fee of Rs 3,000 is due by the 10th. You can pay at the school office. Thank you.",
+    "seeds": []
+  }
+]
